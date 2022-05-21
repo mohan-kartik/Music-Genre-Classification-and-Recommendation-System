@@ -11,3 +11,18 @@ Genre: 'rock', 'classical', 'metal', 'disco', 'blues', 'reggae', 'country', 'hip
 ## Feature Extraction:
 Generated a dataset by extracting audio features from multiple audio files using the [Librosa](https://librosa.org/doc/latest/tutorial.html) library
 
+
+## ML Models
+1. XGBoost
+2. Stochastic Gradient Descent Classifier
+3. MLP Classifier
+4. Support Vector Classifier
+5. Random Forest
+6. Light Gradient Boosting Machine
+7. Deep Neural Networks
+8. Convolution Neural Networks
+
+
+## Recommendation System
+1. KNN
+2. Cosine Similarity
