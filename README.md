@@ -9,7 +9,9 @@ The [GTZAN dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset
 Genre: 'rock', 'classical', 'metal', 'disco', 'blues', 'reggae', 'country', 'hiphop', 'jazz', 'pop'
 
 ## Feature Extraction:
-Generated a dataset by extracting audio features from multiple audio files using the [Librosa](https://librosa.org/doc/latest/tutorial.html) library
+* Generated a dataset by extracting audio features from multiple audio files using the [Librosa](https://librosa.org/doc/latest/tutorial.html) library.
+* Extracted spectrogram which is a visual way of representing the signal loudness of a signal over time at various frequencies present in a particular waveform.
+* Label encoding the genres in the dataset.
 
 
 ## ML Models
