@@ -1,4 +1,4 @@
-<h1><p align = "center">Music Genre Classification and Recommendation System</p></h1>
+<p align = "center"><img src='https://github.com/mohan-kartik/Music-Genre-Classification-and-Recommendation-System/assets/42971268/ad464fa5-5724-4663-8634-eef2775b6823' height=300 width=400>
 
 ## Project Objective:
 To perform in-depth analysis of audio files, visualize and automate genre classification.
